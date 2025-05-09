@@ -1,0 +1,18 @@
+body{
+    background-color: #252424;
+    
+}
+
+textarea {
+    min-height: 400px;
+}
+#email-view{
+    border: Black;
+}
+ul{
+    list-style: none;
+}
+.subject,.timestamp,.sender,.body{
+    border: black;
+    line-break: 10px;
+}
